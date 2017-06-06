@@ -1,5 +1,4 @@
-# BD
-Banco de Dados
+
 Hello. I'm teach at Sales Gomes, technician school on Tatuí/SP and i have worked as computer teacher. One of my discipline is Database. This repository is about this, and all what I have did for my work with database, I have been upload here. You can get and use it for free if you need.
 
 If you shared it in website, keep de reference this page.
